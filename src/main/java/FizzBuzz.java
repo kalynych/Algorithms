@@ -22,7 +22,6 @@ public class FizzBuzz {
         }
 
         System.out.println(Arrays.toString(numbers));
-
         return numbers;
     }
 }
